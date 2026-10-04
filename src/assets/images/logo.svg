@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 36" fill="none">
+  <rect x="2" y="2" width="32" height="32" rx="8" fill="#4F46E5"/>
+  <path d="M10 12L18 7L26 12L18 17L10 12Z" fill="#FFFFFF"/>
+  <path d="M10 17L18 22L26 17" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 22L18 27L26 22" stroke="#C7D2FE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="44" y="24" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="18" font-weight="800" fill="#0F172A" letter-spacing="-0.5">StackFlow<tspan fill="#4F46E5">.AI</tspan></text>
+</svg>

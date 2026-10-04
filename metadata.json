@@ -1,0 +1,8 @@
+{
+  "name": "StackFlow AI — AI-Powered System Design Generator",
+  "description": "AI-Powered System Design Generator that produces structured technical system designs, architecture flows, database schemas, and API specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
